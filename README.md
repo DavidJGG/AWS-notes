@@ -13,7 +13,7 @@
 - El storage debe de ser identico
   ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/961abad9-bd8a-41b7-b0ff-87e0ecd761f7)
 
-- No puedo crear otra replica mientras hay una en curso.
+- No puedo crear otra replica mientras hay una en curso.  (Puedo crear replicas simultaneas, si y solo si el cluster tiene un estado available)
   ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/0f5e38af-4462-4537-95cd-9dc1cd0f175e)
 
 
