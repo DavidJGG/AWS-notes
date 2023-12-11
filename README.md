@@ -16,9 +16,7 @@
 - No puedo crear otra replica mientras hay una en curso.  (Puedo crear replicas simultaneas, si y solo si el cluster tiene un estado available)
   ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/0f5e38af-4462-4537-95cd-9dc1cd0f175e)
 
-
-
-
+- A las replicas creadas no se les puede agregar nodos readers. (No parecen ser clusters de read replica)
 
 
 
