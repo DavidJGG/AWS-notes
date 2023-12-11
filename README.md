@@ -12,6 +12,8 @@
 - A las replicas se les puede poner un tamaño de maquina diferente.
 - El storage debe de ser identico
 - No puedo crear otra replica mientras hay una en curso.
+  - ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/0f5e38af-4462-4537-95cd-9dc1cd0f175e)
+
 
 
 ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/1facbfda-e53b-4fa9-97a6-b4721b045a4e)
