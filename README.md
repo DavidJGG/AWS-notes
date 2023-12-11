@@ -8,7 +8,7 @@
 
 - Al solicitar la read replica el cluster pasa a un estado backing-up
 - 9 minutos despues el cluster pasa a un stado avaiable, pero la replica aun sigue en creating.
-- 
+- 25 minutos despues la replica esta lista
 - A las replicas se les puede poner un tamaño de maquina diferente.
 - El storage debe de ser identico
 - No puedo crear otra replica mientras hay una en curso.
