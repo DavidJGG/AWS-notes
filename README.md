@@ -11,8 +11,10 @@
 - 25 minutos despues la replica esta lista
 - A las replicas se les puede poner un tamaño de maquina diferente.
 - El storage debe de ser identico
+  ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/961abad9-bd8a-41b7-b0ff-87e0ecd761f7)
+
 - No puedo crear otra replica mientras hay una en curso.
-  - ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/0f5e38af-4462-4537-95cd-9dc1cd0f175e)
+  ![image](https://github.com/DavidJGG/AWS-notes/assets/60149403/0f5e38af-4462-4537-95cd-9dc1cd0f175e)
 
 
 
